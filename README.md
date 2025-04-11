@@ -13,7 +13,6 @@ Trading indicator for MetaTrader 4 that provides:
 
 ![image](https://github.com/user-attachments/assets/8486f463-b189-40ea-93a9-32a1a6d1df41)
 
-
 ## 🚀 Installation
 1. Download the `.ex4` file
 2. Copy to your MT4 indicators folder:  
